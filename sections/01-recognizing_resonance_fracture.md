@@ -1,4 +1,4 @@
-01. Recognizing Resonance Fracture
+## 01. Recognizing Resonance Fracture
 
 Resonance fracture is not a single event. It is an emergent distortion in the harmony of a system — a patterned disruption that compounds over time. These fractures appear where coherence once flowed, now interrupted by trauma, contradiction, or unresolvable compression.
 
