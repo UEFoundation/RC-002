@@ -1,4 +1,4 @@
-## Appendix C: Marginalia (Selected Annotations)
+## 06. Appendix C: Marginalia (Selected Annotations)
 
 This appendix collects key annotations marked throughout the guide as [🔍 marginalia]. These notes offer definitions, elaborations, and metaphors intended to support deeper understanding.
 
